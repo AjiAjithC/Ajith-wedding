@@ -1,0 +1,28 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F9E8EE"/>
+      <stop offset="1" stop-color="#E9C7B4"/>
+    </linearGradient>
+    <linearGradient id="silk" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#7A2243"/>
+      <stop offset="1" stop-color="#B47E5C"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" rx="36" fill="url(#bg)"/>
+
+  <circle cx="520" cy="355" r="110" fill="#C07D58"/>
+  <circle cx="690" cy="355" r="104" fill="#BA7650"/>
+  <path d="M410 700C460 540 530 510 605 570C640 600 700 640 770 740L410 740V700Z" fill="url(#silk)"/>
+  <path d="M350 760C490 680 730 680 860 760V860H350V760Z" fill="#7A2243"/>
+
+  <g fill="#D9A86E">
+    <circle cx="520" cy="215" r="12"/>
+    <circle cx="690" cy="220" r="12"/>
+    <circle cx="605" cy="190" r="14"/>
+  </g>
+
+  <g opacity="0.9">
+    <path d="M604 476C588 452 558 451 544 474C529 498 545 528 604 573C663 528 679 498 664 474C650 451 620 452 604 476Z" fill="#8E2A52"/>
+  </g>
+</svg>

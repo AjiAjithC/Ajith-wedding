@@ -1,0 +1,12 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="512" y2="512" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f8f1e6"/>
+      <stop offset="1" stop-color="#c7964c"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="url(#g)"/>
+  <circle cx="256" cy="220" r="112" fill="#f9ebd4" stroke="#a9782c" stroke-width="16"/>
+  <path d="M166 328C198 292 236 276 256 276C276 276 314 292 346 328" stroke="#7c1e2b" stroke-width="18" stroke-linecap="round"/>
+  <text x="256" y="245" text-anchor="middle" font-size="92" fill="#7c1e2b" font-family="serif">ॐ</text>
+</svg>

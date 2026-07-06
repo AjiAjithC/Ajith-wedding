@@ -1,0 +1,18 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bellBody" x1="12" y1="6" x2="52" y2="56" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7D89C"/>
+      <stop offset="0.5" stop-color="#D6A351"/>
+      <stop offset="1" stop-color="#A9702B"/>
+    </linearGradient>
+    <linearGradient id="clapper" x1="27" y1="42" x2="37" y2="56" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C7863D"/>
+      <stop offset="1" stop-color="#7F4A1F"/>
+    </linearGradient>
+  </defs>
+  <path d="M24 12C24 7.6 27.6 4 32 4C36.4 4 40 7.6 40 12V14H24V12Z" fill="url(#bellBody)"/>
+  <path d="M16 27C16 18.2 23.2 11 32 11C40.8 11 48 18.2 48 27V37.8L54 45V49H10V45L16 37.8V27Z" fill="url(#bellBody)"/>
+  <rect x="8" y="49" width="48" height="5" rx="2.5" fill="#9C662A"/>
+  <circle cx="32" cy="53" r="5" fill="url(#clapper)"/>
+  <path d="M20 24C20 18.5 24.5 14 30 14" stroke="#FBE8BF" stroke-width="2.2" stroke-linecap="round"/>
+</svg>
