@@ -1,0 +1,17 @@
+{
+  "name": "Ajith & Chindhuja Wedding Invitation",
+  "short_name": "Wedding Invite",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff8f0",
+  "theme_color": "#8e2a52",
+  "description": "Luxury romantic South Indian wedding invitation website for Ajith and Chindhuja.",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
